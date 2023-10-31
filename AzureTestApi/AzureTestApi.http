@@ -1,0 +1,6 @@
+@AzureTestApi_HostAddress = http://localhost:5279
+
+GET {{AzureTestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
